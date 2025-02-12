@@ -2,6 +2,11 @@
 
 baseURL: https://28-07.sinonvirgule.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: 577cf6d8-64a2-4052-b863-289ea354f04b
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
